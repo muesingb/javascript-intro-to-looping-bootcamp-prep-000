@@ -14,7 +14,7 @@ function whileLoop(n) {
   return 'done'
 };
 //say "I run once regardless" num number of times.
-//Will always run once because executed at least once before condition is tested.
+//Will always run once because dowhile executes at least once before condition is tested.
 function doWhileLoop(num){
   var i = 0;
   function incrementVariable() {
