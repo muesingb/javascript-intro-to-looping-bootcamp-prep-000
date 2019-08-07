@@ -13,7 +13,7 @@ function whileLoop(n) {
   }
   return 'done'
 };
-//
+//say "I run once regardless" num number of times
 function doWhileLoop(num){
   var i = 0;
   function incrementVariable() {
