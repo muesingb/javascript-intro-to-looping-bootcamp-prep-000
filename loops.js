@@ -7,7 +7,7 @@ function forLoop(array) {
   return array
 };
 //count down (using console.log) from the passed in number to 0. Then return the string 'done'
-function whileLoop(n){
+function whileLoop(n) {
   while (n > 0) {
     console.log(--n);
   }
